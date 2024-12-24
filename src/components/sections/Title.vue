@@ -33,13 +33,13 @@ const authors = [
     name: "Jiaxin.Huang",
     icon: "./icon/anya.jpg",
     homepage: "https://www.bilibili.com/video/BV1jv4y1P7Bb",
-    address_flag: "1,*"
+    address_flag: "1,#"
   },
   {
     name: "Jiayi.Wen",
     icon: "./icon/capoo.webp",
     homepage: "https://zh.moegirl.org.cn/%E7%8C%AB%E7%8C%AB%E8%99%AB%E5%92%96%E6%B3%A2",
-    address_flag: "1,*"
+    address_flag: "1,#"
   },
 ]
 
@@ -47,7 +47,7 @@ const authors = [
 const addresses = [
   {
     address_flag: "1",
-    name: "Home University",
+    name: "Jiangnan University",
     icon: "./icon/home.png",
     homepage: "https://github.com/hmuniversity"
   },
