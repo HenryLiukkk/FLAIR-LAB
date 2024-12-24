@@ -4,7 +4,7 @@ import { ElIcon } from 'element-plus'
 import { Document, Files, MagicStick, Picture, DataAnalysis, Film } from '@element-plus/icons-vue'
 
 // logo地址，没有则置为""即可
-const logo = './logo.png'
+const logo = './icon/JNU.png'
 
 // 标题
 const title = 'Future Lab for Artificial Intelligence and Robotics'
@@ -48,7 +48,7 @@ const addresses = [
   {
     address_flag: "1",
     name: "Jiangnan University",
-    icon: "./icon/Jiangnan.png",
+    icon: "./icon/JNU.png",
     homepage: "https://github.com/hmuniversity"
   },
   {
