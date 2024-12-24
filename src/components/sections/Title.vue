@@ -48,7 +48,7 @@ const addresses = [
   {
     address_flag: "1",
     name: "Jiangnan University",
-    icon: "./icon/home.png",
+    icon: "./icon/Jiangnan.png",
     homepage: "https://github.com/hmuniversity"
   },
   {
@@ -61,17 +61,18 @@ const addresses = [
 
 // 共一和通讯提示
 const con_and_corresponding_author = 
-  "#: Equal Contribution. *: Corresponding Author."
+  "#: Equal Contribution."
 
 // 最新消息
 const news = "🔥 [2024-12-15] This template project is still under development."
 
 // 强调内容
 const emphases = [
-  "🎉 [ABCD 2024] Poster",
-  "🥰 欢迎关注“减论”微信公众号/B站/知乎/小红书",
-  "传递人工智能算法科普教育的减约理解",
-  "提升信息效率及认知维度"
+  "🎉 [FLAIR-LAB 2024] Poster",
+  "🥰 你热爱机器人吗？",
+  "你对人工智能充满好奇吗？",
+  "你想要亲手打造自己的机器人吗？"，
+  "Join us!!!"
 ]
 
 // 提供引导资料链接
