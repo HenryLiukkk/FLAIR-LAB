@@ -69,9 +69,9 @@ const news = "🔥 [2024-12-15] This template project is still under development
 // 强调内容
 const emphases = [
   "🎉 [FLAIR-LAB 2024] Poster",
-  "🥰 你热爱机器人吗？",
-  "你对人工智能充满好奇吗？",
-  "你想要亲手打造自己的机器人吗？"
+  "🥰 你对人工智能充满好奇吗？",
+  "你想要亲手打造自己的机器人吗？",
+  "加入我们吧！！"
 ]
 
 // 提供引导资料链接
