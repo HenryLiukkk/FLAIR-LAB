@@ -55,7 +55,7 @@ const addresses = [
     address_flag: "*",
     name: "Zhigong.Song",
     icon: "./icon/ikun.avif",
-    homepage: "https://www.bilibili.com/video/BV178411Y7QB"
+    homepage: "https://sme.jiangnan.edu.cn/info/1013/6453.htm"
   },
 ]
 
