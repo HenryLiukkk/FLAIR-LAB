@@ -61,20 +61,25 @@ export default {
           disableOnInteraction:false,
           pauseOnMouseEnter:true,
         }"
-        >
+      >
         <swiper-slide v-for="(path, index) in image_paths" :key="index">
-          <el-image :src="path"/>
+          <el-image :src="path" class="carousel-image" />
         </swiper-slide>
       </swiper>
     </el-col>
   </el-row>
 </template>
-  
-<style>
 
-/* 设置Swiper风格 */
+<style>
+/* 设置 Swiper 风格 */
 .swiper {
   --swiper-theme-color: white;
 }
 
+/* 定义 carousel-image 类的样式 */
+.carousel-image {
+  width: 800px;
+  height: 450px;
+  object-fit: cover; /* 确保图片保持比例并填充容器 */
+}
 </style>
