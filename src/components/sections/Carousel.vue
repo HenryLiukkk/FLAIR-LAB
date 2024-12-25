@@ -1,16 +1,16 @@
 <script>
-import { Swiper, SwiperSlide} from 'swiper/vue';
-import { Navigation, Pagination, Autoplay} from 'swiper/modules';
+import { Swiper, SwiperSlide } from 'swiper/vue';
+import { Navigation, Pagination, Autoplay } from 'swiper/modules';
 import 'swiper/css/bundle';
 
 export default {
   components: {
-      Swiper,
-      SwiperSlide,
-      Navigation,
-      Pagination,
-      Autoplay,
-    },
+    Swiper,
+    SwiperSlide,
+    Navigation,
+    Pagination,
+    Autoplay,
+  },
   data() {
     return {
       modules: [
@@ -18,14 +18,14 @@ export default {
         Pagination,
         Autoplay,
       ],
-      // 选择要轮播的照片
+      // 选择要轮播的 GIF 图片
       image_paths: [
-        "./carousel/1.jpg",
-        "./carousel/2.jpg",
-        "./carousel/3.jpg",
-        "./carousel/4.jpg",
-        "./carousel/5.jpg",
-        "./carousel/6.jpg",
+        "./carousel/1.gif",
+        "./carousel/2.gif",
+        "./carousel/3.gif",
+        "./carousel/4.gif",
+        "./carousel/5.gif",
+        "./carousel/6.gif",
       ],
     }
   }
@@ -62,7 +62,7 @@ export default {
           pauseOnMouseEnter:true,
         }"
         >
-        <swiper-slide v-for="path in image_paths">
+        <swiper-slide v-for="(path, index) in image_paths" :key="index">
           <el-image :src="path"/>
         </swiper-slide>
       </swiper>
