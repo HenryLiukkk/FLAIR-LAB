@@ -110,7 +110,7 @@ const buttons = [
   },
   {
     disabled: false,
-    name: "Video (减论)",
+    name: "Video",
     link: "https://www.bilibili.com/video/BV15XkgYiE73/",
     component: Film,
   },
