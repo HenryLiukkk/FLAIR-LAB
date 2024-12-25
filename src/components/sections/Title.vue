@@ -27,19 +27,19 @@ const authors = [
     name: "Henry.Liu",
     icon: "./icon/junyaohu.jpg",
     homepage: "https://junyaohu.github.io/",
-    address_flag: "1,#"
+    address_flag: "1,#*"
   },
   {
     name: "Jiaxin.Huang",
     icon: "./icon/anya.jpg",
     homepage: "https://www.bilibili.com/video/BV1jv4y1P7Bb",
-    address_flag: "1,#"
+    address_flag: "1,#*"
   },
   {
     name: "Jiayi.Wen",
     icon: "./icon/capoo.webp",
     homepage: "https://zh.moegirl.org.cn/%E7%8C%AB%E7%8C%AB%E8%99%AB%E5%92%96%E6%B3%A2",
-    address_flag: "1,#"
+    address_flag: "1,#*"
   },
 ]
 
@@ -52,8 +52,8 @@ const addresses = [
     homepage: "https://github.com/hmuniversity"
   },
   {
-    address_flag: "2",
-    name: "IKUN University",
+    address_flag: "*",
+    name: "Zhigong.Song",
     icon: "./icon/ikun.avif",
     homepage: "https://www.bilibili.com/video/BV178411Y7QB"
   },
@@ -61,7 +61,7 @@ const addresses = [
 
 // 共一和通讯提示
 const con_and_corresponding_author = 
-  "#: Equal Contribution."
+  "#: Equal Contribution. *:Instructor."
 
 // 最新消息
 const news = "🔥 [2024-12-15] This template project is still under development."
