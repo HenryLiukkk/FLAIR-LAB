@@ -26,8 +26,8 @@ const more_paper = {
         link: "https://zzcheng.top/MPOT/",
     },
     "ControlNet": {
-        name: "SURPRISE - CVPR 2024",
-        link: "https://shaoer.cctv.com/2016/08/30/VIDEpC09paVK8RPk0FeuxPQ6160830.shtml",
+        name: "Henry.Liu's CSDN 2024",
+        link: "https://blog.csdn.net/m0_68167062?spm=1010.2135.3001.5343",
     }
 }
 
