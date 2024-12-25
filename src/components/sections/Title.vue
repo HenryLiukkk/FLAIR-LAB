@@ -32,7 +32,7 @@ const authors = [
   {
     name: "Jiaxin.Huang",
     icon: "./icon/anya.jpg",
-    homepage: "https://www.bilibili.com/video/BV1jv4y1P7Bb",
+    homepage: "https://hjx-exoskeleton.github.io",
     address_flag: "1,#*"
   },
   {
