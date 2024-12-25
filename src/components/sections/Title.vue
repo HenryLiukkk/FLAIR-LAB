@@ -49,7 +49,7 @@ const addresses = [
     address_flag: "1",
     name: "Jiangnan University",
     icon: "./icon/JNU.png",
-    homepage: "https://github.com/hmuniversity"
+    homepage: "https://www.jiangnan.edu.cn/"
   },
   {
     address_flag: "*",
