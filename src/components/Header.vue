@@ -26,8 +26,8 @@ const more_paper = {
         link: "https://zzcheng.top/MPOT/",
     },
     "ControlNet": {
-        name: "ControlNet - ICCV 2023",
-        link: "https://github.com/lllyasviel/ControlNet",
+        name: "SURPRISE",
+        link: "https://shaoer.cctv.com/2016/08/30/VIDEpC09paVK8RPk0FeuxPQ6160830.shtml",
     }
 }
 
