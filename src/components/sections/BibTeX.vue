@@ -5,7 +5,7 @@ export default {
       bibtex: [
         "@article{junyaohu2023template,",
         "    title={Future Lab for Artificial Intelligence and Robotics},",
-        "    author={Henry.Liu},
+        "    author={Hu, Junyao},
         "    journal={GitHub},",
         "    year={2023}",
         "}",
