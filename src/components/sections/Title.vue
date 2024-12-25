@@ -26,13 +26,13 @@ const authors = [
   {
     name: "Henry.Liu",
     icon: "./icon/junyaohu.jpg",
-    homepage: "https://junyaohu.github.io/",
+    homepage: "https://henryliukkk.github.io/",
     address_flag: "1,#*"
   },
   {
     name: "Jiaxin.Huang",
     icon: "./icon/anya.jpg",
-    homepage: "https://hjx-exoskeleton.github.io",
+    homepage: "https://hjx-exoskeleton.github.io/",
     address_flag: "1,#*"
   },
   {
