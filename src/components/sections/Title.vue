@@ -87,13 +87,13 @@ const buttons = [
     component: Document,
   },
   {
-    disabled: false,
+    disabled: true,
     name: "Code",
     link: "https://github.com/JunyaoHu/academic-project-page-template-vue",
     component: Files,
   },
   {
-    disabled: false,
+    disabled: true,
     name: "Demo",
     link: "https://junyaohu.github.io/academic-project-page-template-vue",
     component: MagicStick,
@@ -109,13 +109,13 @@ const buttons = [
     component: DataAnalysis,
   },
   {
-    disabled: false,
+    disabled: true,
     name: "Video",
     link: "https://www.bilibili.com/video/BV15XkgYiE73/",
     component: Film,
   },
   {
-    disabled: false,
+    disabled: true,
     name: "Video (Tutorial)",
     link: "https://www.bilibili.com/video/BV1oUrfYzEqZ",
     component: Film,
