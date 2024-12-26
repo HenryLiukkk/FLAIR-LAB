@@ -19,8 +19,7 @@ export default {
     
       const loadSecondScript = () => { twikoo.init({
           // 腾讯云环境填 envId；Vercel 环境填地址（https://xxx.vercel.app）
-          envId: 'https://henryliu-hfv09ua5f-henryliukkks-projects.vercel.app/', 
-        
+          envId: 'https://henryliu-hfv09ua5f-henryliukkks-projects.vercel.app', 
           // 容器元素
           el: '#twikoo', 
           // 环境地域，默认为 ap-shanghai，腾讯云环境填 ap-shanghai 或 ap-guangzhou；Vercel 环境不填
@@ -29,9 +28,6 @@ export default {
           path: location.pathname,
           // 用于手动设定评论区语言，支持的语言列表 https://github.com/twikoojs/twikoo/blob/main/src/client/utils/i18n/index.js
           lang: 'zh-CN', 
-          admin: {
-            username: 'admin', // 管理员用户名
-            password: 'a74933173', // 更新后的管理员密码
           },
         });
       }
