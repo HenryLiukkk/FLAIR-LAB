@@ -14,7 +14,7 @@
     <el-row justify="center">
       <el-col :xs="24" :sm="20" :md="16" :lg="12" :xl="10" >
         <el-container id="video-container">
-          <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=802517980&bvid=BV1qy4y1x7VV&cid=325180260&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+          <iframe src="https://www.bilibili.com/video/BV1W41fYbEup/?vd_source=cac3e2a4004d21a3918b58ae9386a694" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
         </el-container>
       </el-col>
     </el-row>
