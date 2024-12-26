@@ -22,8 +22,8 @@ const more_paper = {
         link: "https://www.xiaohongshu.com/user/profile/60ebd000000000000100a0e8?xsec_token=YBlbIPFPX3kJIruO0g0Djgma9H-mEu5V28xSkcE7K6yMk=&xsec_source=app_share&xhsshare=CopyLink&appuid=60ebd000000000000100a0e8&apptime=1735127197&share_id=663dd0dc7e0a45acbe1262981046e057",
     },
     "MPOT": {
-        name: "MPOT - ICCV 2023",
-        link: "https://zzcheng.top/MPOT/",
+        name: "Jiaxin.Huang's CSDN 2024",
+        link: "https://blog.csdn.net/qq_54900679?type=blog",
     },
     "ControlNet": {
         name: "Henry.Liu's CSDN 2024",
