@@ -25,7 +25,7 @@ const btn_color = '#444444'
 const authors = [
   {
     name: "Henry.Liu",
-    icon: "./icon/junyaohu.jpg",
+    icon: "./icon/HenryLiu.jpg",
     homepage: "https://henryliukkk.github.io/",
     address_flag: "1,#"
   },
@@ -54,7 +54,7 @@ const addresses = [
   {
     address_flag: "*",
     name: "Zhigong.Song",
-    icon: "./icon/ikun.avif",
+    icon: "./icon/Song.jpg",
     homepage: "https://sme.jiangnan.edu.cn/info/1013/6453.htm"
   },
 ]
