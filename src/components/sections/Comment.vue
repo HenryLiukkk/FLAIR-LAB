@@ -28,7 +28,6 @@ export default {
           path: location.pathname,
           // 用于手动设定评论区语言，支持的语言列表 https://github.com/twikoojs/twikoo/blob/main/src/client/utils/i18n/index.js
           lang: 'zh-CN', 
-          },
         });
       }
 
