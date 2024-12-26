@@ -31,7 +31,7 @@ const authors = [
   },
   {
     name: "Jiaxin.Huang",
-    icon: "./icon/anya.jpg",
+    icon: "./icon/IKUN.jpg",
     homepage: "https://hjx-exoskeleton.github.io/",
     address_flag: "1,#"
   },
