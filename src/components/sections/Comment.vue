@@ -19,7 +19,7 @@ export default {
     
       const loadSecondScript = () => { twikoo.init({
           // 腾讯云环境填 envId；Vercel 环境填地址（https://xxx.vercel.app）
-          envId: 'henryliu-api.vercel.app', 
+          envId: 'https://henryliu-api.vercel.app', 
           // 容器元素
           el: '#twikoo', 
           // 环境地域，默认为 ap-shanghai，腾讯云环境填 ap-shanghai 或 ap-guangzhou；Vercel 环境不填
