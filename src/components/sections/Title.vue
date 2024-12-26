@@ -13,7 +13,7 @@ const title = 'Future Lab for Artificial Intelligence and Robotics'
 const title_color = '#000000'
 
 // 标题补充，没有则置为''即可
-const title_supp = ' (FLAIR-CLUB)'
+const title_supp = ' (FLAIR-LAB)'
 
 // 标题补充颜色
 const title_supp_color = '#42B883'
@@ -68,7 +68,7 @@ const news = "🔥 [2024-12-15] This template project is still under development
 
 // 强调内容
 const emphases = [
-  "🎉 [FLAIR-CLUB 2024] Poster",
+  "🎉 [FLAIR-LAB 2024] Poster",
   "🥰 你对人工智能充满好奇吗？",
   "你想要亲手打造自己的机器人吗？",
   "加入我们吧！"
