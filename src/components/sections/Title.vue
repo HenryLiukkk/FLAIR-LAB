@@ -27,19 +27,19 @@ const authors = [
     name: "Henry.Liu",
     icon: "./icon/junyaohu.jpg",
     homepage: "https://henryliukkk.github.io/",
-    address_flag: "1,#*"
+    address_flag: "1,#"
   },
   {
     name: "Jiaxin.Huang",
     icon: "./icon/anya.jpg",
     homepage: "https://hjx-exoskeleton.github.io/",
-    address_flag: "1,#*"
+    address_flag: "1,#"
   },
   {
     name: "Jiayi.Wen",
     icon: "./icon/capoo.webp",
     homepage: "https://zh.moegirl.org.cn/%E7%8C%AB%E7%8C%AB%E8%99%AB%E5%92%96%E6%B3%A2",
-    address_flag: "1,#&*"
+    address_flag: "1,#&"
   },
 ]
 
