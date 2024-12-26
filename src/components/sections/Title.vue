@@ -61,7 +61,7 @@ const addresses = [
 
 // 共一，社长和指导老师提示
 const con_and_corresponding_author = 
-  "#: Equal Contribution. &：Club President. *:Instructor."
+  "#: Equal Contribution. &:Club President. *:Instructor."
 
 // 最新消息
 const news = "🔥 [2024-12-15] This template project is still under development."
