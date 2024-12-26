@@ -27,7 +27,7 @@ export default {
         "./carousel/5.gif",
         "./carousel/7.gif",
         "./carousel/8.gif",
-        "./carousel/6.gif",
+        "./carousel/9.gif",
       ],
     }
   }
